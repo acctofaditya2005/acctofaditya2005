@@ -1,4 +1,4 @@
-I'm a CS student at The George Mason University.
+I'm a CS student at George Mason University.
 
 Currently interning as GenAI SWE @ Vivian Contracting.
  
