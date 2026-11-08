@@ -1,6 +1,6 @@
 I'm a CS student at George Mason University. 
 
-Currently interning as GenAI SWE @ Vivian Contracting. 
+Currently interning as GenAI SWE @ Vivian Contracting and ML Research @ Northstar Space Lab. 
 
 Lately, I've been spending most of my time diving into AI Infra and experimenting with sandboxing.
 
